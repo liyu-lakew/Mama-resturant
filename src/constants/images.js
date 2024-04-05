@@ -21,7 +21,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import mama from  "../assets/mama.png";
-
+import M from  "../assets/M.png";
 export default {
   bg,
   chef,
@@ -45,5 +45,6 @@ export default {
   sign,
   quote,
   gericht,
-  mama
+  mama,
+  M
 };
